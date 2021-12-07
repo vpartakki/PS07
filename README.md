@@ -1,12 +1,12 @@
 # R Code from Data Science Projects
-## Victoria Partakki
-================
+## Victoria Partakki `she/her`
+***
 
 ## Data visualizations for SDS 192
 
 This is a document containing two data visualizations I created for my
 data science class!
-
+***
 ## Number of campaign stops Clinton and Trump made each week leading up to the 2016 election.
 
 Code and Visualization:
@@ -35,7 +35,7 @@ ggplot(data = weekly_campaign_stops, mapping = aes(x = week, y = number_of_stops
 ```
 
 ![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
-
+***
 ## Extent to which the names “Casey” and “Riley” were used for babies of both sex male and female.
 
 Code and Visualization:
@@ -57,3 +57,4 @@ ggplot(data = babynames_riley_casey, aes(x=year,y=prop, summary = sex, color=sex
 ![](README_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
 \`\`\`
+***

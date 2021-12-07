@@ -56,5 +56,5 @@ ggplot(data = babynames_riley_casey, aes(x=year,y=prop, summary = sex, color=sex
 
 ![](README_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
-\`\`\`
+
 ***

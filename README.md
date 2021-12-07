@@ -1,4 +1,5 @@
 R Code from Data Science Projects
+Victoria Partakki
 ================
 
 ## Data visualizations for SDS 192
